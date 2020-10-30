@@ -32,5 +32,7 @@ public class ShiftCompute {
         System.out.println("main");
         ShiftCompute shiftCompute = new ShiftCompute();
         System.out.println("main");
+
+        System.out.println( 15 & 16);
     }
 }
