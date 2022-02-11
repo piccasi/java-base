@@ -1,13 +1,13 @@
 package design;
 
 /**
- * Copyright (C), 2019, Sensetime Tech. Co., Ltd.
+ * Copyright (C), 2019, piccasi@163.com
  *
  * @Name: FactoryPattern
  * @Since: 4.0
  * @Version: v1.0
  * @Date: 2020/6/19 16:48
- * @Author: zhouguanbao@sensetime.com
+ * @Author: piccasi@163.com
  * @Description: 工厂模式
  **/
 public class FactoryPattern {

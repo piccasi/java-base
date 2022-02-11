@@ -4,13 +4,13 @@ import java.util.*;
 import java.util.function.Predicate;
 
 /**
- * Copyright (C), 2019, Sensetime Tech. Co., Ltd.
+ * Copyright (C), 2019, piccasi@163.com
  *
  * @Name: multiInterface
  * @Since: 4.0
  * @Version: v1.0
  * @Date: 2020/5/9 15:10
- * @Author: zhouguanbao@sensetime.com
+ * @Author: piccasi@163.com
  * @Description: TODO
  **/
 public class MultiInterface implements Interface2 {

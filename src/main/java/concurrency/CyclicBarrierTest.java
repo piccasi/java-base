@@ -4,13 +4,13 @@ import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
 
 /**
- * Copyright (C), 2019, Sensetime Tech. Co., Ltd.
+ * Copyright (C), 2019, piccasi@163.com
  *
  * @Name: CyclicBarrierTest
  * @Since: 4.0
  * @Version: v1.0
  * @Date: 2020/6/11 12:30
- * @Author: zhouguanbao@sensetime.com
+ * @Author: piccasi@163.com
  * @Description: TODO
  **/
 

@@ -4,13 +4,13 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Copyright (C), 2019, Sensetime Tech. Co., Ltd.
+ * Copyright (C), 2019, piccasi@163.com
  *
  * @Name: DicarMulti
  * @Since: 4.0
  * @Version: v1.0
  * @Date: 2020/6/13 12:09
- * @Author: zhouguanbao@sensetime.com
+ * @Author: piccasi@163.com
  * @Description: TODO
  **/
 public class DicarMulti {

@@ -4,13 +4,13 @@ import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
 /**
- * Copyright (C), 2019, Sensetime Tech. Co., Ltd.
+ * Copyright (C), 2019, piccasi@163.com
  *
  * @Name: ClassTest
  * @Since: 4.0
  * @Version: v1.0
  * @Date: 2020/8/6 14:29
- * @Author: zhouguanbao@sensetime.com
+ * @Author: piccasi@163.com
  * @Description: TODO
  **/
 public class ClassTest {

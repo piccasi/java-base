@@ -4,13 +4,13 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Copyright (C), 2019, Sensetime Tech. Co., Ltd.
+ * Copyright (C), 2019, piccasi@163.com
  *
  * @Name: ObserverPattern
  * @Since: 4.0
  * @Version: v1.0
  * @Date: 2020/6/19 16:25
- * @Author: zhouguanbao@sensetime.com
+ * @Author: piccasi@163.com
  * @Description: 观察者模式
  **/
 public class ObserverPattern {

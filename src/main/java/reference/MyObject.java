@@ -1,13 +1,13 @@
 package reference;
 
 /**
- * Copyright (C), 2019, Sensetime Tech. Co., Ltd.
+ * Copyright (C), 2019, piccasi@163.com
  *
  * @Name: MyObject
  * @Since: 4.0
  * @Version: v1.0
  * @Date: 2020/6/10 17:48
- * @Author: zhouguanbao@sensetime.com
+ * @Author: piccasi@163.com
  * @Description: TODO
  **/
 public class MyObject {

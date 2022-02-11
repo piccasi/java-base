@@ -1,13 +1,13 @@
 package exception;
 
 /**
- * Copyright (C), 2019, Sensetime Tech. Co., Ltd.
+ * Copyright (C), 2019, piccasi@163.com
  *
  * @Name: ExceptionTest
  * @Since: 4.0
  * @Version: v1.0
  * @Date: 2020/6/11 10:53
- * @Author: zhouguanbao@sensetime.com
+ * @Author: piccasi@163.com
  * @Description: TODO
  **/
 public class ExceptionTest {

@@ -1,13 +1,13 @@
 package design;
 
 /**
- * Copyright (C), 2019, Sensetime Tech. Co., Ltd.
+ * Copyright (C), 2019, piccasi@163.com
  *
  * @Name: 枚举单例
  * @Since: 4.0
  * @Version: v1.0
  * @Date: 2020/6/19 15:18
- * @Author: zhouguanbao@sensetime.com
+ * @Author: piccasi@163.com
  * @Description: 枚举类型是线程安全的，并且只会装载一次
  **/
 public class Singleton {

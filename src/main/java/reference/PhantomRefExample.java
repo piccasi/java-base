@@ -5,7 +5,7 @@ import java.lang.ref.Reference;
 import java.lang.ref.ReferenceQueue;
 
 /**
- * Copyright (C), 2019, Sensetime Tech. Co., Ltd.
+ * Copyright (C), 2019, piccasi@163.com
  *
  * 主意需要设置jvm参数再运行，否则结果会跟预期不一样
  *
@@ -13,7 +13,7 @@ import java.lang.ref.ReferenceQueue;
  * @Since: 4.0
  * @Version: v1.0
  * @Date: 2020/6/10 17:48
- * @Author: zhouguanbao@sensetime.com
+ * @Author: piccasi@163.com
  * @Description: TODO
  **/
 public class PhantomRefExample {
