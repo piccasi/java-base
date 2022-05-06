@@ -1,0 +1,17 @@
+api:
+  login/v1
+method:
+  POST
+request:
+  declarative.requests.LoginReq
+sucResponse:
+  declarative.responses.LoginRes
+failResponse:
+  declarative.responses.LoginRes
+entryPoint:
+  declarative.entry.LoginEntry
+rateLimit:
+  10
+failOver:
+timeOut:
+  5
